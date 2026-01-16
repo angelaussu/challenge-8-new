@@ -1,3 +1,6 @@
+Pls read this, to run my file:
+https://www.notion.so/Challenge-8-2eaf6ad8a8ce80dba92eee9ce7e46567?source=copy_link
+
 # Challenge 8 - Slicing Figma Movie App with Tanstack Query
 
 # Description
